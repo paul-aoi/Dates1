@@ -1,3 +1,4 @@
+//Number flipper
 package flipper;
 
 import java.util.Scanner;
