@@ -1,3 +1,4 @@
+//Date duration calculator
 package dates;
 
 import java.text.SimpleDateFormat;
