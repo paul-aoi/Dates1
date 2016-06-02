@@ -20,7 +20,7 @@ public class Flipper {
 			reverse=reverse*10+remainder;
 			f=f/10;
 		
-		}
+		} 
 		
 		System.out.println(reverse);
 	}
