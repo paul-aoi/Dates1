@@ -76,14 +76,3 @@ do{
 	}
 }
 
-
-
-
-
-
-//how many other applicants?
-//your background
-//how much more have you learned since getting the job?
-//which lnanguages are implemented?
-//what do you do during a day?
-//
